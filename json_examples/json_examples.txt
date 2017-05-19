@@ -1,0 +1,38 @@
+TRUE:
+
+{
+	"source": "VASE",
+	"target": "SAVE"
+}
+
+{
+	"source": "ANAGRAMS",
+	"target": " ARS MAGNA"
+}
+
+{
+	"source": "SLOT MACHINES",
+	"target": " CASH LOST IN 'EM."
+}
+
+{
+	"source": "PAURES D.O.O.",
+	"target": "DOPAUREOS"
+}
+
+FALSE:
+
+{
+	"source": "MOTHER-IN-LAW",
+	"target": " CASH LOST IN 'EM."
+}
+
+{
+	"source": "JERNEJ",
+	"target": " NEJJEH"
+}
+
+{
+	"source": "CMD",
+	"target": "JKL"
+}
